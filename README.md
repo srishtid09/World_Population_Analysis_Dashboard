@@ -1,6 +1,7 @@
 # World_Population_Analysis_Dashboard
 Visualized global population trends, demographics, and birth–death rates using interactive MS Excel dashboards.
 🌍 Global Population Analytics Dashboard – MS Excel
+
 📌 Overview
 
 This project focuses on analyzing global population trends, demographic patterns, and birth–death rates using Microsoft Excel.
